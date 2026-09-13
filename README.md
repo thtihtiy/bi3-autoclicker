@@ -1,4 +1,4 @@
-A lightweight auto-clicker for Debian, Ubuntu, or Windows that uses xdotool.
+Auto-clicker for Debian, Ubuntu, or Windows created with xdotool
 
 - Manual mode: Press once to activate and again to deactivate whenever you want.
 
